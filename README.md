@@ -1,2 +1,2 @@
-# git-theme
-Dark theme for git
+# slack-theme
+Dark theme for slack
